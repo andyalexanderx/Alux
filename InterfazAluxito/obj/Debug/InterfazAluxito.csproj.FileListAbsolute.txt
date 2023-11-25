@@ -1,0 +1,154 @@
+C:\Users\andys\source\repos\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.exe.config
+C:\Users\andys\source\repos\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.exe
+C:\Users\andys\source\repos\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.pdb
+C:\Users\andys\source\repos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.AssemblyReference.cache
+C:\Users\andys\source\repos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form1.resources
+C:\Users\andys\source\repos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form2.resources
+C:\Users\andys\source\repos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form3.resources
+C:\Users\andys\source\repos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Properties.Resources.resources
+C:\Users\andys\source\repos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.GenerateResource.cache
+C:\Users\andys\source\repos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.CoreCompileInputs.cache
+C:\Users\andys\source\repos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.exe
+C:\Users\andys\source\repos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.pdb
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.exe.config
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.exe
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.pdb
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.AssemblyReference.cache
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form1.resources
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form2.resources
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form3.resources
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Properties.Resources.resources
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.GenerateResource.cache
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.exe
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.pdb
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\MySql.Data.dll
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\Google.Protobuf.dll
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\ZstdNet.dll
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\System.Memory.dll
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\System.Buffers.dll
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\bin\Debug\MySql.Data.xml
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.exe.config
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.CopyComplete
+C:\Users\Andy\Documents\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Inventario.resources
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.exe.config
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.exe
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.pdb
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\MySql.Data.dll
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\Google.Protobuf.dll
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\ZstdNet.dll
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\System.Memory.dll
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\System.Buffers.dll
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\System.Numerics.Vectors.dll
+D:\Documentos\InterfazAluxito\InterfazAluxito\bin\Debug\MySql.Data.xml
+D:\Documentos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.AssemblyReference.cache
+D:\Documentos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.exe.config
+D:\Documentos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form1.resources
+D:\Documentos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form2.resources
+D:\Documentos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form3.resources
+D:\Documentos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Inventario.resources
+D:\Documentos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Properties.Resources.resources
+D:\Documentos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.GenerateResource.cache
+D:\Documentos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.CoreCompileInputs.cache
+D:\Documentos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.CopyComplete
+D:\Documentos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.exe
+D:\Documentos\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.pdb
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.exe.config
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.exe
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.pdb
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csprojResolveAssemblyReference.cache
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form1.resources
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form2.resources
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form3.resources
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Inventario.resources
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Properties.Resources.resources
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.GenerateResource.Cache
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.InterfazAluxito.exe.config
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.exe
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.pdb
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\System.Memory.dll
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\Google.Protobuf.dll
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\ZstdNet.dll
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\System.Buffers.dll
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ruben\Downloads\InterfazAluxito\InterfazAluxito\bin\Debug\MySql.Data.xml
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.exe.config
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.exe
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.pdb
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\MySql.Data.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\Google.Protobuf.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\ZstdNet.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\System.Memory.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\System.Buffers.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\MySql.Data.xml
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.AssemblyReference.cache
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.exe.config
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form1.resources
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form2.resources
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form3.resources
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Inventario.resources
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Properties.Resources.resources
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.GenerateResource.cache
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.CoreCompileInputs.cache
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.CopyComplete
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.exe
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.pdb
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\LibraryAlux.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\InterfazAluxito\bin\Debug\LibraryAlux.pdb
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.exe.config
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.exe
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\InterfazAluxito.pdb
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\LibraryAlux.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\Google.Protobuf.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\ZstdNet.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\System.Memory.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\System.Buffers.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\LibraryAlux.pdb
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\MySql.Data.xml
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.AssemblyReference.cache
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.SuggestedBindingRedirects.cache
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.exe.config
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form1.resources
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form2.resources
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Form3.resources
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Inventario.resources
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.Properties.Resources.resources
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.GenerateResource.cache
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.CoreCompileInputs.cache
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.csproj.CopyComplete
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.exe
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\obj\Debug\InterfazAluxito.pdb
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\Castle.Core.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\TestStack.White.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\Castle.Core.xml
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\TestStack.White.pdb
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\InterfazAluxito\bin\Debug\TestStack.White.xml

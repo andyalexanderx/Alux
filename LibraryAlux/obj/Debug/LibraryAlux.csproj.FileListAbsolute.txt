@@ -1,0 +1,18 @@
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\LibraryAlux\bin\Debug\LibraryAlux.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\LibraryAlux\bin\Debug\LibraryAlux.pdb
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\LibraryAlux\obj\Debug\LibraryAlux.csproj.AssemblyReference.cache
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\LibraryAlux\obj\Debug\LibraryAlux.csproj.CoreCompileInputs.cache
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\LibraryAlux\obj\Debug\LibraryAlux.dll
+C:\Users\Andy Alexander\Downloads\Aluxito\InterfazAluxito\LibraryAlux\obj\Debug\LibraryAlux.pdb
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\LibraryAlux\bin\Debug\LibraryAlux.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\LibraryAlux\bin\Debug\LibraryAlux.pdb
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\LibraryAlux\bin\Debug\Castle.Core.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\LibraryAlux\bin\Debug\TestStack.White.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\LibraryAlux\bin\Debug\Castle.Core.xml
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\LibraryAlux\bin\Debug\TestStack.White.pdb
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\LibraryAlux\bin\Debug\TestStack.White.xml
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\LibraryAlux\obj\Debug\LibraryAlux.csproj.AssemblyReference.cache
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\LibraryAlux\obj\Debug\LibraryAlux.csproj.CoreCompileInputs.cache
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\LibraryAlux\obj\Debug\LibraryAlux.csproj.CopyComplete
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\LibraryAlux\obj\Debug\LibraryAlux.dll
+C:\Users\andys\Downloads\VyVSW\InterfazAluxito\LibraryAlux\obj\Debug\LibraryAlux.pdb
